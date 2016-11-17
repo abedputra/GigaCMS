@@ -2,7 +2,7 @@
 Powerful CMS with your design
 
 # Documentation
-https://abedputra.github.io/GigaCMS.github.io/
+https://abedputra.github.io/GigaCMS/
 
 # Install
 1. Upload all data to your server
