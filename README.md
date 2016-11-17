@@ -1,2 +1,12 @@
 # GigaCMS
 Powerful CMS with your design
+
+# Documentation
+https://abedputra.github.io/GigaCMS.github.io/
+
+# Install
+1. Upload all data to your server
+2. type http//your domain.com/install-gigacms.php
+3. you must fill the form detail database and account login
+
+   Done..Have Fun!
