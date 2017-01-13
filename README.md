@@ -10,6 +10,10 @@ https://abedputra.github.io/GigaCMS/
 3. you must fill the form detail database and account login
 4. Done..Have Fun!
 
+# About Author
+I am a Web Design & Programming, Mobile App Developer from bali, indonesia. 
+I make some Apps & Games. 
+Get my App and Game on Google Play : https://play.google.com/store/apps/developer?id=AbedPutra
 
 # License
 https://github.com/abedputra/GigaCMS/blob/master/LICENSE.md
