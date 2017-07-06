@@ -13,7 +13,7 @@ https://abedputra.github.io/GigaCMS/
 # About Author
 I am a Web Design & Programming, Mobile App Developer from bali, indonesia. 
 I make some Apps & Games. 
-Get my App and Game on Google Play : https://play.google.com/store/apps/developer?id=AbedPutra
+Get my Apps and Games on Google Play : https://play.google.com/store/apps/developer?id=AbedPutra
 
 # License
 https://github.com/abedputra/GigaCMS/blob/master/LICENSE.md
