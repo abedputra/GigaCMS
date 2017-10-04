@@ -75,9 +75,9 @@ if($_POST && isset($_SESSION['token']) && ($_SESSION['token'] == $_POST['token']
       $page->success = 1;
       $_SESSION['user'] = $id; // we automatically login the user
       $user = new User($db);
-    } else
+    } else{
       $page->error = "There was an error ! Please try again !";
-
+    }
   }
 
 } else if($_POST)
