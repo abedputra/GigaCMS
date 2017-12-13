@@ -20,5 +20,8 @@ https://abedputra.github.io/GigaCMS/
 3. you must fill the form detail database and account login
 4. Done..Have Fun!
 
+# Support me
+Support me at <a href="https://www.patreon.com/abedputra">Patron</a>
+
 # License
 https://github.com/abedputra/GigaCMS/blob/master/LICENSE.md
